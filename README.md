@@ -110,7 +110,3 @@ Cloudflare Pages
 
 No backend required.
 
-📄 License
-
-This project is licensed under the MIT License.
-Base template inspired by NeonMint, customized and maintained by Kaushal Kulkarni.
