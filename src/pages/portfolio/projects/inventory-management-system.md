@@ -13,15 +13,22 @@ image:
 Businesses struggle with manual inventory tracking, leading to stockouts, overstocking, and inefficient resource allocation.
 
 ## Solution
-Built a comprehensive inventory management system with real-time stock tracking, automated alerts, and role-based access control for efficient inventory operations.
+Built a comprehensive full-stack inventory management system with PHP backend and responsive frontend, including real-time stock tracking and automated alerts.
+
+## Full-Stack Implementation
+- **Frontend**: Bootstrap-based responsive interface with JavaScript for real-time updates
+- **Backend**: PHP server-side logic with MySQL database integration
+- **Database**: MySQL for inventory data with SQLite support for smaller deployments
+- **Integration**: AJAX for asynchronous frontend-backend communication
 
 ## Tech Stack
-- **Backend**: PHP, MySQL
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript
-- **Features**: AJAX for asynchronous operations, jQuery for DOM manipulation
-- **Database**: MySQL with SQLite support for smaller deployments
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, AJAX
+- **Backend**: PHP with object-oriented programming
+- **Database**: MySQL, SQLite
+- **Features**: jQuery for DOM manipulation, real-time data updates
 
 ## Outcome
+- Full-stack application with seamless frontend-backend data synchronization
 - Real-time inventory visibility reduces stockouts by 90%
 - Automated low-stock alerts prevent revenue loss
 - Role-based access control ensures data security

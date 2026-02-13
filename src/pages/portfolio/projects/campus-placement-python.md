@@ -13,18 +13,24 @@ image:
 Traditional campus placement systems lack data-driven insights and automation, resulting in inefficient matching between students and employers.
 
 ## Solution
-Built a comprehensive placement management system using Python and Django that automates resume parsing, provides predictive analytics, and generates data-driven placement insights.
+Built a comprehensive full-stack placement management system with React frontend and Python/Django backend, including automated resume parsing and predictive analytics.
+
+## Full-Stack Implementation
+- **Frontend**: React components for student/company dashboards, Bootstrap for responsive design
+- **Backend**: Django REST Framework APIs for data processing and business logic
+- **Database**: PostgreSQL for student/company data and placement analytics
+- **Integration**: Real-time data flow between frontend and backend systems
 
 ## Tech Stack
+- **Frontend**: React, HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Python, Django, Django REST Framework
 - **Database**: PostgreSQL
 - **Data Analysis**: Pandas
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
 
 ## Outcome
+- Full-stack application with seamless frontend-backend integration
 - Automated resume processing reduces manual screening time by 80%
-- Predictive analytics improves placement success rates
-- RESTful API enables seamless third-party integrations
 - Real-time dashboard for placement coordinators
+- RESTful API enables third-party integrations
 
 👉 [View on GitHub](https://github.com/Kulkarni007/Campus-placement-using-Python)
