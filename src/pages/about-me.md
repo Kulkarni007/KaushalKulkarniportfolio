@@ -8,52 +8,43 @@ image:
   alt: "Photo of Kaushal Kulkarni"
 ---
 
-## Background
+## Professional Background
 
-Started with core web technologies and expanded into full-stack development. Focus on practical problem-solving and building production-ready applications.
+Full-stack developer with experience building production-ready applications. Started with core web technologies and expanded into comprehensive backend development with Python and Django.
 
-## Technical Foundation
+## Core Expertise
 
-- **Frontend**: HTML, CSS, JavaScript, responsive design
-- **Backend**: Python, Django, REST API development
-- **Database**: PostgreSQL, MySQL, data modeling
-- **Principles**: Clean code, scalable architecture, efficient design
+- **Backend Development**: Python, Django, Django REST Framework
+- **Database Systems**: PostgreSQL, MySQL, data modeling, optimization
+- **Frontend Technologies**: HTML, CSS, JavaScript, React
+- **Architecture**: Scalable design patterns, clean code principles
+- **API Development**: RESTful APIs, authentication, integration
 
-## Development Approach
+## Technical Strengths
 
-- Build applications that solve real business problems
-- Prioritize maintainability and performance
+- Building scalable backend systems
+- Database design and optimization
+- Full-stack application development
+- Clean, maintainable code architecture
+- Production deployment and maintenance
+
+## Development Philosophy
+
+Focus on solving real business problems with practical solutions. Prioritize code quality, performance, and maintainability over feature quantity.
+
+## Career Focus
+
+Seeking full-stack developer roles where I can:
+- Build and scale backend systems
+- Design efficient database architectures
+- Contribute to production-grade applications
+- Solve complex technical challenges
+
+## Technical Approach
+
 - Use proven technologies over trends
+- Write code that survives change
 - Focus on production-ready solutions
-
-## Project Philosophy
-
-Quality over quantity. Each project demonstrates:
-- Clean, maintainable code structure
-- Efficient database design
-- Scalable architecture patterns
-- Proper API design and documentation
-
-## Current Expertise
-
-- **Backend Development**: Django REST Framework, API design
-- **Database Systems**: Modeling, optimization, migrations
-- **Full-Stack Architecture**: End-to-end application development
-- **Code Quality**: Testing, documentation, deployment
-
-## Learning Method
-
-Skills developed through:
-- Debugging complex systems
-- Refactoring for performance
-- Understanding architectural trade-offs
-- Building production-grade applications
-
-## Professional Focus
-
-- Deliver robust, scalable backend systems
-- Write clean, production-ready code
-- Solve real business problems
 - Continuously improve technical skills
 
 — **Kaushal Kulkarni**

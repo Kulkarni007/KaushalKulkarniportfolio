@@ -9,38 +9,23 @@ image:
   alt: "Green Vada project interface"
 ---
 
-**Green Vada** is an innovative project developed using the Hack programming language. This project demonstrates creative problem-solving and exploration of alternative programming paradigms.
+## Problem
+Demonstrating technical versatility beyond mainstream programming languages while building a production-ready web application.
 
-Built with **Hack**, this project showcases the versatility and power of lesser-known programming languages in creating functional and engaging web applications.
+## Solution
+Developed a full-featured web application using Hack programming language with modern web standards, responsive design, and clean architecture.
 
-## 🧩 Features
+## Tech Stack
+- **Backend**: Hack programming language
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Design**: Responsive design, modern web APIs
+- **Architecture**: Clean code patterns, extensible design
 
-- Interactive user interface
-- Dynamic content management
-- Responsive design principles
-- Modern web standards compliance
-- Cross-browser compatibility
-- Performance optimization
-- Clean code architecture
-- Extensible design patterns
-
-## 💡 Technologies used
-
-- Hack (Programming Language)
-- HTML5 (Structure)
-- CSS3 (Styling)
-- JavaScript (Interactivity)
-- Modern web APIs
-- Responsive design techniques
-
-## 🌐 Demo
+## Outcome
+- Successfully deployed production application using alternative technology stack
+- Demonstrated ability to learn and implement new programming paradigms
+- Achieved cross-browser compatibility and performance optimization
+- Live deployment with real-world usage
 
 👉 [View on GitHub](https://github.com/Kulkarni007/Green-Vada)
 👉 [View on Live](https://greenvada.in/)
-
-
-## 🎯 Objective
-
-To explore the capabilities of the Hack programming language in web development and demonstrate that innovative solutions can be built using diverse technology stacks beyond mainstream languages.
-
-🚀 *Developed by Kaushal.*

@@ -9,36 +9,22 @@ image:
   alt: "Mystery delivery system interface"
 ---
 
-**Mystery Delivery System** is a Python assignment that simulates a comprehensive delivery management system. This project demonstrates object-oriented programming and system design principles.
+## Problem
+Need to demonstrate Python programming skills and object-oriented design principles through a practical delivery management system.
 
-Built with **Python** and **Tkinter**, this application provides a graphical interface for managing delivery operations with tracking and reporting capabilities.
+## Solution
+Built a comprehensive delivery management system with GUI interface, real-time tracking, and database persistence using Python and Tkinter.
 
-## 🧩 Features
+## Tech Stack
+- **Core**: Python with Object-Oriented Programming
+- **GUI**: Tkinter for desktop application interface
+- **Database**: SQLite for data persistence
+- **Data**: JSON for data exchange, DateTime for time management
 
-- Delivery order management
-- Real-time order tracking
-- Customer information management
-- Delivery personnel assignment
-- Order status updates
-- Delivery route optimization
-- Report generation
-- Data persistence with SQLite
-
-## 💡 Technologies used
-
-- Python (Core Programming)
-- Tkinter (GUI Framework)
-- SQLite (Database)
-- JSON (Data Exchange)
-- DateTime (Time Management)
-- Object-Oriented Programming
-
-## 🌐 Demo
+## Outcome
+- Demonstrated strong Python programming and OOP skills
+- Built functional GUI application with database integration
+- Implemented real-time tracking and reporting features
+- Showcased system design and architecture capabilities
 
 👉 [View on GitHub](https://github.com/Kulkarni007/mystery-delivery-system)
-
-## 🎯 Objective
-
-To demonstrate proficiency in Python programming, GUI development, and system design through creating a functional delivery management system with tracking and reporting features.
-
-🚀 *Developed by Kaushal.*
